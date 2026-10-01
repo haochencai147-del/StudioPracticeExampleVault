@@ -73,3 +73,4 @@ That's it — the example vault is ready to explore!
 
 - **Keep your copy up to date with the original:** on your fork's GitHub page, click **Sync fork → Update branch**, then pull the changes (`git pull` on the command line, or **Fetch origin → Pull origin** in GitHub Desktop).
 - **Workspace noise:** Obsidian constantly updates `.obsidian/workspace.json`. Adding it to `.gitignore` keeps your commits clean.
+hhhh
